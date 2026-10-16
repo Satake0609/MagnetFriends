@@ -17,8 +17,8 @@
 
 <p align="center"><sub>📅 開発状況：TGS2026 出展用ビルド公開中です</sub></p>
 
-https://github.com/user-attachments/files/33542384/MagnetFriends_._A3.
-<!-- 例：<p align="center"><img src="docs/screenshot.png" width="720"></p> -->
+<img width="5760" height="2350" alt="TGS_A3_title_5760x4074" src="https://github.com/user-attachments/assets/cae775b8-1f1b-4898-aeb2-99ff60312952" />
+
 
 ---
 
